@@ -17,14 +17,12 @@
 </p>
 
  ## technologies
-<p align="left">
 <!-- JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="180" height="40"/> </a>
 <!-- Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" width="100" height="40"/> </a>
  <!-- GitHub -->
  <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/GitHub" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" width="140" height="40"/> </a>
-
 <!-- CSS3 -->
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="100" height="40"/> </a>
 
@@ -39,6 +37,7 @@
 
 <!-- NodeJS -->
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" width="140" height="40"/> </a>
+
 
 <!-- Jest -->
 <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" width="120" height="40"/> </a>
